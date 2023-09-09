@@ -11,6 +11,8 @@ Data Augmentation was applied on this pre-processed dataset.
 Using the Glove50 pre-trained embedding, we converted the input texts into numerical vectors that can be interpreted by machine learning algorithms.
 
 We used a single CNN model along with Global Average Pooling used as a regression to predict the feature scores of the text provided as input.
+<br />
+<img src = "https://github.com/rkv-2401/Text-classification/assets/59438748/b2695b7d-fbef-4245-a606-d74d2e0554a9" width = 50%>
 
 We then designed some metrics to evaluate the performance of the model and the quality of it's outputs. The plots can be found in the notebook.
 
