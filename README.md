@@ -1,9 +1,9 @@
 # Text-classification
 Notebooks used in a Kaggle competition as part of coursework.
 A rapid data pre-processing pipeline was built using SpaCy which was 6x faster than the conventional pre-processing pipeline! 
-![ord_time](https://github.com/rkv-2401/Text-classification/assets/59438748/d727ecf2-a7bd-4a90-9bc3-e2927794b41f)
+<img src = "https://github.com/rkv-2401/Text-classification/assets/59438748/d727ecf2-a7bd-4a90-9bc3-e2927794b41f" width = "40%">
 
-![SpaCy_time](https://github.com/rkv-2401/Text-classification/assets/59438748/96975ed9-91dd-4d6b-bfbe-611aa5550e86)
+<img src = "https://github.com/rkv-2401/Text-classification/assets/59438748/96975ed9-91dd-4d6b-bfbe-611aa5550e86" width = "40%">
 
 Data Augmentation was applied on this pre-processed dataset.
 
