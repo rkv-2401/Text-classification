@@ -1,6 +1,6 @@
 # Text-classification
 Notebooks used in a Kaggle competition as part of coursework.
-A rapid data pre-processing pipeline was built using SpaCy which was 6x faster than the conventional pre-processing pipeline. Data Augmentation was applied on this pre-processed dataset.
+A rapid data pre-processing pipeline was built using SpaCy which was 6x faster than the conventional pre-processing pipeline! Data Augmentation was applied on this pre-processed dataset.
 
 Using the Glove50 pre-trained embedding, we converted the input texts into numerical vectors that can be interpreted by machine learning algorithms.
 
