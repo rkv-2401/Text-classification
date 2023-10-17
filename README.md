@@ -22,5 +22,7 @@ We then designed some metrics to evaluate the performance of the model and the q
 #### kNN classification with GZip compressor for distances - 0.78
 #### Baseline LSTM model - 0.646 (predicts same result for every input essay)
 #### CNN w/ Augmentation - 0.61
+#### LSTM w/o Attention, w/ Pooling and Augmentation - 0.61 w/ healthy distribution
 #### Multi-input model with CNN and Dense layers - 0.59
+##### These are Private scores on the competition dataset
 
